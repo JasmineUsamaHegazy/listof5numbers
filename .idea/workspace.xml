@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1306c8a-77db-4082-9c2c-3ee67725e3f0" name="Changes" comment="Q3" />
+    <list default="true" id="d1306c8a-77db-4082-9c2c-3ee67725e3f0" name="Changes" comment="Q3 answer&#10;&#10;Signed-off-by: JasmineUsamaHegazy &lt;yuhijazy@gmail.com&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JasmineUsamaHegazy &lt;yuhijazy@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,8 +85,46 @@
       <option name="project" value="LOCAL؜" />
       <updated>1663620045029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL؜-٠٠٠٠٤" summary="Q3">
+      <created>1663621027620</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663621027620</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٥" summary="Q3">
+      <created>1663621103225</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663621103225</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٦" summary="Q3 answer">
+      <created>1663621166126</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663621166126</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٧" summary="Q3 answer&#10;&#10;Signed-off-by: JasmineUsamaHegazy &lt;yuhijazy@gmail.com&gt;">
+      <created>1663621173355</created>
+      <option name="number" value="٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٧" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663621173355</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٨" summary="Q3 answer&#10;&#10;Signed-off-by: JasmineUsamaHegazy &lt;yuhijazy@gmail.com&gt;">
+      <created>1663621253471</created>
+      <option name="number" value="٠٠٠٠٨" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٨" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663621253471</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -94,7 +138,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Q3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q3" />
+    <MESSAGE value="Q3 answer" />
+    <MESSAGE value="Q3 answer&#10;&#10;Signed-off-by: JasmineUsamaHegazy &lt;yuhijazy@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q3 answer&#10;&#10;Signed-off-by: JasmineUsamaHegazy &lt;yuhijazy@gmail.com&gt;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
