@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1306c8a-77db-4082-9c2c-3ee67725e3f0" name="Changes" comment="" />
+    <list default="true" id="d1306c8a-77db-4082-9c2c-3ee67725e3f0" name="Changes" comment="Q3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +58,21 @@
       <option name="presentableId" value="Default" />
       <updated>1663523714814</updated>
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="Q3">
+      <created>1663619766378</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663619766393</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٢" summary="Q3">
+      <created>1663619856778</created>
+      <option name="number" value="٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1663619856778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Q3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q3" />
   </component>
 </project>
